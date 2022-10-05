@@ -1,4 +1,6 @@
 {
+  "include": ["src"],
+  "exclude": ["./dist/**/*"],
   "compilerOptions": {
     "module": "commonjs",
     "declaration": true,
