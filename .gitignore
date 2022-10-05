@@ -3,8 +3,11 @@ node_modules
 dist
 
 # local env files
+apps/nest/.env.local
+apps/nest/.env.*.local
 apps/vue/.env.local
 apps/vue/.env.*.local
+apps/nest/node_modules
 
 # Log files
 npm-debug.log*
